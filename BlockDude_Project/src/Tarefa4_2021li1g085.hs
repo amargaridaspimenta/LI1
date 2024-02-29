@@ -1,11 +1,3 @@
-{- |
-Module      : Tarefa4_2021li1g085
-Description : Movimentação do personagem
-Copyright   : LingYun Zhu <a100820@alunos.uminho.pt>;
-            : Ana Margarida Sousa Pimenta <a100830@alunos.uminho.pt>;
-
-Módulo para a realização da Tarefa 4 do projeto de LI1 em 2021/22.
--}
 module Tarefa4_2021li1g085 where
 
 import Tarefa2_2021li1g085 hiding (desconstroi, desconstroiMapa)
