@@ -1,14 +1,3 @@
-{- |
-Module      : Tarefa5_2021li1gXXX
-Description : Aplicação Gráfica
-
-Módulo para a realização da Tarefa 5 do projeto de LI1 em 2021/22.
-
-==Bibliografia 
-Para a realização desta tarefa recorri ao material disponibilizado nas aulas de Laboratórios de Informática 1 bem como a vídeos educativos sobre o funcionamento
-do Gloss. 
--}
-
 module Main where
 
 import Data.Maybe ( fromJust )
